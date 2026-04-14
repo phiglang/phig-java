@@ -1,0 +1,3 @@
+rootProject.name = 'phig-java'
+include 'phig-core'
+include 'phig-jackson'

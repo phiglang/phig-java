@@ -1,0 +1,3 @@
+[submodule "phig-core/testdata"]
+	path = phig-core/testdata
+	url = https://github.com/phiglang/testdata
